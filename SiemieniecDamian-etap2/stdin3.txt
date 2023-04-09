@@ -1,0 +1,11 @@
+1
+2
+1
+imie
+nazwisko
+22
+1000
+o_prace
+20
+stacjonarnie
+12.00

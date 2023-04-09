@@ -1,0 +1,34 @@
+Aby wybrać opcję z menu należy wpisać liczbę stojącą przy 
+interesującej nas opcji. Menu Programu:
+1. Wstaw Pracownika
+Wybieramy jedną spośród pięciu zawodów wybierając odpowiednią liczbę.
+Następnie wpisujemy:
+id - lint
+imie - string
+nazwisko - string
+wiek - int
+zarobki -  double
+rodzaj umowy - "o_prace", "o_dzielo", "na_zlecenie"
+ilość dni w pracy w miesiacu - int
+rodzaj pracy - "stacjonarnie", "zdalnie"
+2. Usun pracownika
+3.Wyswietl baze pracowników 
+Wybieramy jeden spośród pięcu zawodów, następnie następuje wyświetlenie.
+4. Weź zwolnienie z L4
+Wybieramy jeden spośród pięcu zawodów, następnie podajemy ilośc dni
+na L4 a następnie o którego chodzi pracownika według miejsca na liście
+według 3.Wyświetl pracownika.
+5. Urlop pracownika
+Wybieramy jeden spośród pięcu zawodów.W przypadku wybrania 1. Stażysty pojawi
+się stosowny komunikat.
+6. Wyznacz wynagrodzenie
+Wyznaczamy realne wynagordzenie pracownika. Podawane zarobki na początku i
+te wyswietlane w liście są takie na jakie godzi się pracownik przy podpisywaniu umowy.
+Wyznacz wynagorzenie wylicza ile na prawdę zarobi dana osoba po odjęciu bądź
+dodaniu pieniędzy w zależności od okoliczności.
+7. Sprawdz pracownikow
+Wybieramy jeden spośród pięcu zawodów a następnie wprowadzamy godzine o której
+chcemy sprawdzić czy ktoś pracuje. Wyświetla sie stosowny komunikat oraz id.
+
+Można odpalić za pomocą cmd. Po wpisaniu ścieżki folderu nastepnie
+g++ main.cpp..., a potem a.exe<stdin2.txt
